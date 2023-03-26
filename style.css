@@ -3,6 +3,7 @@ body{
 }
 
 .left{
+    margin: 5px 0 3px 5px;
     border-radius: 5px 0 0 5px;
 }
 
