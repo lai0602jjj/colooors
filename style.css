@@ -3,11 +3,16 @@ body{
 }
 
 .left{
+    height: 30px;
+    width: 30px;
     margin: 5px 0 3px 5px;
     border-radius: 5px 0 0 5px;
 }
 
 .right{
+    height: 30px;
+    width: 30px;
+    margin: 5px 0 3px 5px;
     border-radius: 0 5px 5px 0;
 }
 
